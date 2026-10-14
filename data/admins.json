@@ -1,0 +1,10 @@
+[
+  {
+    "id": "admin-01",
+    "email": "css1377713@gmail.com",
+    "name": "Administrador Vai de Elétrica",
+    "role": "superadmin",
+    "passwordHash": "$2b$10$ZFQc1XbuXtJe690j8HGVPunOcLYuo9fXbgpVWsE2enos1.GfYKhY2",
+    "createdAt": "2026-10-11T15:29:53.506Z"
+  }
+]

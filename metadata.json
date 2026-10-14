@@ -1,0 +1,6 @@
+{
+  "name": "VAI DE ELÉTRICA - Scooters Elétricas Premium",
+  "description": "Loja oficial da Vai de Elétrica: Scooters elétricas de alta performance, mobilidade urbana inteligente, design futurista e aplicativo oficial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
